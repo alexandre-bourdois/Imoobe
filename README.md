@@ -3,7 +3,6 @@
 <p align="center">
 	<a href="https://github.com/alexandre-bourdois/Imoobe"><img src="https://i.imgur.com/uPvvg7Y.png" width="500"></a>
 </p>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/lvvqlWJ"><a href="//imgur.com/lvvqlWJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 Imoobe is a SaaS platform designed to help users manage their real estate portfolio efficiently. Whether you own a single property or a large portfolio, Imoobe provides all the tools you need to track, analyze, and optimize your real estate investments. Built with modern technologies like Next.js, Tailwind CSS, React, NextAuth, Prisma, and ShadCN, it offers a seamless, intuitive experience for property owners.
 
 ## Features ✨
