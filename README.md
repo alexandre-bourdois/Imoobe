@@ -46,3 +46,7 @@ This project is currently private. If you are interested in contributing or have
 ## License 📝
 
 All rights reserved. This project is proprietary and confidential. No part of this project may be copied, distributed, or modified without explicit permission from the project owner. For more information or to discuss collaboration opportunities, please contact us directly.
+
+## Credits
+
+- **[Alexandre BOURDOIS](https://github.com/alexandre-bourdois)**: Creator of the project.
